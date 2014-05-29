@@ -1,0 +1,26 @@
+{
+    "name": "jck/utilities",
+    "type": "Utils classes",
+    "description": "",
+    "keywords": ["Human readable size"],
+    "homepage": "https://github.com/Jacksay/JckUtilities",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Stéphane Bouvry",
+            "email": "jacksay@jacksay.com",
+            "homepage": "http://www.jacksay.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+       /**/
+    },
+    "require-dev": {
+        /**/
+    },
+    "autoload": {
+        "psr-0": { "Jck\\Utilities": "" }
+    },
+    "target-dir": "Jck/Utilities"
+}
